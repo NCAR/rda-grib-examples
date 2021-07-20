@@ -1,6 +1,10 @@
 # RDA grib examples
 
-### This is intended to show common grib manipulations. It should show how to open files and manipulate them
+### This repository is intended to show common grib manipulations. It demonstrates how to open files, manipulate, analyze, and visualize grib data.
 
-In this repository is visualization, access, and grib_cookbook
+ 
+ - [Visualization](visualization)
+ - [Access](access)
+ - [Cookbook](wgrib2_recipies)
+ - [Analysis](analysis)
 
